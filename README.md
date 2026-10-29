@@ -1,2 +1,2 @@
-# NHANES_depression_diet
+# NHANES_Project
 Statistics course project, fall 2026
